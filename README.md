@@ -1,1 +1,2 @@
-My first readme. Am happy i can navigate GitHub
+My first readme. 
+GitHub User!
